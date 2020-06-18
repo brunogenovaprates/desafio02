@@ -12,18 +12,13 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafios?style=social">
-  </a>
-
   
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#check-testes-considerar">Testes</a>
 </p>
 
 ## :rocket: Sobre o desafio
@@ -32,13 +27,7 @@ Completar o desafio 2 da RocketSeat **[Acessar Desafio](https://github.com/Rocke
 
 ### Considerações
 
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
-
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)**
-
-**Dica**: Caso não saiba utilizar repositórios do Github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
+Para 
 
 <p align="center">
   <img  src="./assets/nodejs-example.png">
@@ -62,7 +51,8 @@ Agora que você já está com o template clonado, e pronto para continuar, você
 
 Boa correção <3
 
-### Específicação dos testes
+## :check: Testes considerar
+
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
 
@@ -92,7 +82,7 @@ Para esse desafio temos os seguintes testes:
 
 Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
-## :memo: Licença
+## : Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
